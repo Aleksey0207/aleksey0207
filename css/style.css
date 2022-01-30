@@ -1,0 +1,75 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #8d8b96;
+}
+
+.logo {
+	width: 200px;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+
+
+.text_header {
+	color: #fff;
+	font-size: 46px;
+	font-weight: 900;
+	text-align: center;
+}
+
+.descript {
+	margin: 100px 0 50px 50px;
+
+}
+
+.text_descript {
+	color: #fff;
+	font-size: 45px;
+	font-weight: 900;
+	margin-bottom: 50px;
+}
+
+
+
+.foto {
+	max-width: 400px;
+	margin-top: 250px;
+	margin-bottom: 100px;
+}
+
+.ip {
+	text-align: center;
+	font-size: 15px;
+	font-weight: 600;
+	color: #fff;
+	margin-top: 100px;
+}
+
+.phone {
+	text-align: center;
+	font-size: 75px;
+	font-weight: 600;
+	color: #fe0000;
+	margin-bottom: 10px;
+}
+
+.phone_des {
+	text-align: center;
+	font-size: 45px;
+	font-weight: 600;
+	color: #fff;
+	margin-top: 100px;
+}
+
+.phone_mark {
+	text-align: center;
+	font-size: 25px;
+	color: #fff;
+	margin-bottom: 20px;
+}
+
+
